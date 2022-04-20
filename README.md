@@ -1,4 +1,4 @@
-# issue of NodeJS hot reload with colima
+# NodeJS hot reload issue with colima
 
 ## build and launch the container
 > ./build-and-start.sh
