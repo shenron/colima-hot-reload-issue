@@ -5,3 +5,7 @@
 
 ## touch file in loop to trigger reload
 > touch
+
+
+Related to this issue:
+https://github.com/abiosoft/colima/issues/261
